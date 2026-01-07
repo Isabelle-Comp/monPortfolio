@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.custom-navbar {
+    background-color:red;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #dc3545 !important;
+}
+
+.section {
+    padding: 60px 0px;
+
+}
+
+h3 {
+    color: #dc3545;
+    text-align: center;
+}
+
+.photo-profil {
+    width: 450px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #dc3545; /* rouge élégant */
+}
+
+
+footer {
+    background: red;
+    color: white;
+    padding: 15px;
+}
